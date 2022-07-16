@@ -1,0 +1,23 @@
+body {
+    font-family: Helvetica;
+    background-color: #ddd;
+}
+
+form > * {
+    display: block;
+    margin: 1vh 0;
+}
+
+textarea {
+    width: 90%;
+    height: 50vh;
+}
+
+code {
+    display: block;
+    white-space: pre-wrap;
+    background-color: #bbb;
+    width: fit-content;
+    font-family: Consolas, monospace;
+    padding: 0 10px;
+}
